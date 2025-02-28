@@ -6,9 +6,9 @@ A simple and interactive To-Do application built with TypeScript, showcasing Obj
 
 - **Add** new tasks to your to-do list.
 - **Mark tasks as completed** or delete them.
-- **Edit** existing tasks.
 - **View tasks** in a dynamic list format.
 - **User interaction** with multiple classes and OOP principles like inheritance and polymorphism.
+- **Change Theme** change theme feature is implemented, 2 themes are available (dark and light).
 
 ## Technologies Used
 
@@ -23,3 +23,5 @@ A simple and interactive To-Do application built with TypeScript, showcasing Obj
 - **Inheritance**: Common task features are inherited by specific task types (e.g., general tasks, priority tasks).
 - **Polymorphism**: The app uses polymorphism to handle different types of tasks dynamically based on their properties.
 
+
+**Start Application using : node dist/app**
